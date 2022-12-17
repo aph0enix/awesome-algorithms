@@ -103,10 +103,16 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
+* Python
+    * [by @nryoung](https://github.com/nryoung/algorithms)
+    * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
+    * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
+    * [by @nbro](https://github.com/nbro/ands)
+    * [by @keon](https://github.com/keon/algorithms)
+    * [by @vinta](https://github.com/vinta/fuck-coding-interviews)
 * C
     * [by @fragglet](https://github.com/fragglet/c-algorithms)
     * [by @TheAlgorithms](https://github.com/TheAlgorithms/C)
-* [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
     * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms)
@@ -116,10 +122,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @PetarV-](https://github.com/PetarV-/Algorithms)
     * [by @faheel](https://github.com/faheel/Algos)
     * [by @sslotin](http://github.com/sslotin/algo)
-* [Erlang](https://github.com/aggelgian/erlang-algorithms)
-* Go
-    * [by @arnauddri](https://github.com/arnauddri/algorithms)
-    * [by @floyernick](https://github.com/floyernick/Data-Structures-and-Algorithms)
 * Java
     * [by @jpa99](https://github.com/jpa99/Algorithms)
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
@@ -141,28 +143,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
     * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
     * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
-* Lua
-    * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
-* Objective-C
-    * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
-* PHP
-    * [by @TheAlgorithms](https://github.com/TheAlgorithms/PHP)
-* Python
-    * [by @nryoung](https://github.com/nryoung/algorithms)
-    * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
-    * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
-    * [by @nbro](https://github.com/nbro/ands)
-    * [by @keon](https://github.com/keon/algorithms)
-    * [by @vinta](https://github.com/vinta/fuck-coding-interviews)
-* Ruby
-    * [by @kanwei](https://github.com/kanwei/algorithms)
-    * [by @sagivo](https://github.com/sagivo/algorithms)
-    * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
-* [Scala](https://github.com/vkostyukov/scalacaster)
-* Swift
-    * [by @kingreza](https://github.com/kingreza/Swift-Algorithms-Strings-)
-    * [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures)
-    * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
